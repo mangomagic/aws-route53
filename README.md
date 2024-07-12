@@ -1,6 +1,6 @@
 # AWS Route53 Terraform Module
 
-This Terraform module creates AWS Routes53 records from from a [data structure](https://github.com/mangomagic/digitalocean-dns/blob/main/example/example_com.tfvars).
+This Terraform module creates AWS Routes53 records from from a [data structure](https://github.com/mangomagic/aws-route53/blob/main/example/test_example_com.tfvars).
 
 Note: Terraform version >= 1.3.0 is required.
 
