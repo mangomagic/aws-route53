@@ -4,7 +4,7 @@ a_records = [
     "ip" = "192.168.0.1"
     "name" = "@"
     "ttl" = 3600
-    "uid" = "example_com_104890788"
+    "uid" = "test_example_com_104890788"
   },
 ]
 cname_records = [
