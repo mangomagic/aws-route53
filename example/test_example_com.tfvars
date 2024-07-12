@@ -1,4 +1,4 @@
-domain = "example.com"
+domain = "test-example.com"
 a_records = [
   {
     "ip" = "192.168.0.1"
